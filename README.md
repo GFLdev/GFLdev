@@ -24,11 +24,11 @@
   
   💻 My skill set spans across cutting-edge tools and technologies:
   
-  Crafting dynamic web applications with ReactJS and NextJS.
+  Crafting dynamic web applications with ReactJS, NextJS and VueJS.
   
-  Harnessing the power of MongoDB for seamless data management.
+  Harnessing the power of MongoDB and Oracle SQL for seamless data management.
   
-  Employing the art of data science with R for insights that drive decisions.
+  Employing the art of data science with R and Python for insights that drive decisions.
   
   Studying C/C++ and ARMx32 ASM for low-level mastery on embedded systems.
   
